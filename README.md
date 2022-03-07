@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @DivjotRulez
-- 👀 I’m interested in ... coding and music production
-- 🌱 I’m currently learning ... how to run a label
-- 💞️ I’m looking to collaborate on ... javascript weather app
-- 📫 How to reach me ...divjot@divjotabhol.com
+- 👀 I’m interested in music production
+- 🌱 I’m currently learning on how to run a succesful usic festival
+- 💞️ I’m looking to collaborate on NOTHING.
+- 📫 How to reach me inquiries@divjotabhol.com or Divjot@hollfest.co.uk
 
 <!---
 DivjotRulez/DivjotRulez is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
