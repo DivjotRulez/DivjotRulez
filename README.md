@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @DivjotRulez
-- 👀 I’m interested in music production
-- 🌱 I’m currently learning on how to run a succesful usic festival
 - 💞️ I’m looking to collaborate on online crypto casino.
 - 📫 How to reach me info@d2traps.com
 
